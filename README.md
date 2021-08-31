@@ -31,7 +31,7 @@ Contributors of this repo: [Woohyeon Shim](https://github.com/shim94kr), [Ahyun 
 
 ### Datasets
 - symmetry detection datasets (LDRS, SDRW, NYU) (passwd: ldrs2021)
-[sym_datasets](http://shorturl.at/jmsE0)
+[sym_datasets](https://postechackr-my.sharepoint.com/:u:/g/personal/lastborn94_postech_ac_kr/EQdRWpc9HiRDqgdQohA3X-oBuoeUS6d8U24dRykhsL1vnw?e=eQ2vaN)
 - COCO dataset (2014)
 [train2014](http://images.cocodataset.org/zips/train2014.zip)
 [val2014](http://images.cocodataset.org/zips/val2014.zip)
@@ -60,7 +60,7 @@ The trained weights and arguments will be save to the checkpoint path correspond
 
 ### Test
 - trained weights of PMCNet (passwd: ldrs2021)
-[weights](http://shorturl.at/wxBN3) 
+[weights](https://postechackr-my.sharepoint.com/:u:/g/personal/lastborn94_postech_ac_kr/EeWlTzf8JhlCtK2cPoT7WQYB10sHsq7g-OxOQnvcXlgb2A?e=KsxEye) 
 
 ```
     CUDA_VISIBLE_DEVICES=0 python main.py --ver ours -t
